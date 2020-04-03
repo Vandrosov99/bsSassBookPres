@@ -1,0 +1,6 @@
+1.install nodejs
+2.check in terminal nodejs --v
+3.check in termianl npmv --v
+4. npm init 
+5. npm install -g --save-dev gulp gulp-sass browser-sync
+6. write in terminal gulp (запуск всех тасков)
